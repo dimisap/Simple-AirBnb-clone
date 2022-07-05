@@ -1,0 +1,25 @@
+.photos{
+    width:176px;
+    height:235px;
+    padding-left:10px;
+}
+.text{
+    padding-left:10px;
+    font-size: 12px;
+}
+.star{
+    width:12px;
+    height:12px;
+}
+.gray{
+    color:gray;
+}
+
+.available{
+    width:60px;
+    position:relative;
+    top:-325px;
+    left:8px;
+}
+
+
